@@ -1,5 +1,5 @@
 # ADENIYI
-OOP HMEWORK
+OOP HMEWORK STAGE 1
 1. Sensor Class
 The Sensor class represents a physical device used to collect environmental data such as
 temperature, air quality, or water quality. It is responsible for identifying the sensor, knowing what
